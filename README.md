@@ -21,3 +21,13 @@ l
 4. Cases
 5. Trimming and Padding
 6. Locale
+
+
+# **Object**
+
+1. Creating, Coping & Checking Objects
+2. Making Object Immutability & and checking Immutability  (seal, freeze, extensible)
+3. Getting Object Keys and Values
+4. Converting Object Keys and Values to an Array and back to an Object
+5. Getting and Setting Object Key(s) Characteristics (Enumerable, Writable, Configurable)
+6. Getting Prototype
