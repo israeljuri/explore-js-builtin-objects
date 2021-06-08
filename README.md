@@ -1,4 +1,4 @@
-# JavaScript-Built-in-Object
+# JavaScript-Built-in-Objects
 JavaScript Build-in Object Methods, i'm currently exploring all the methods of the core Built-in Objects in JavaScript, after each Object i'll categorize them and so its easier to digest, There's a markdown file containing all the specific "type" methods, below is a sequence i came up with for each "type" to remember how to work with them
 
 # **Array**
