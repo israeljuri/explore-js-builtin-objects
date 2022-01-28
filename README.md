@@ -1,5 +1,5 @@
 # JavaScript-Built-in-Objects
-JavaScript Build-in Object Methods, i'm currently exploring all the methods of the core Built-in Objects in JavaScript, after each Object i'll categorize them and so its easier to digest, There's a markdown file containing all the specific "type" methods, below is a sequence i came up with for each "type" to remember how to work with them
+Sometimes the likes of Lodash are just an overkill for the problem, that's basically why we even have these built-in objects. So here's A mental model to work with JavaScript Built in Objects.
 
 # **Array**
 
