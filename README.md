@@ -1,8 +1,11 @@
-# JavaScript-Built-in-Objects
-Sometimes the likes of Lodash are just an overkill for the problem, that's basically why we even have these built-in objects. So here's A mental model to work with JavaScript Built in Objects.
+# Exploring JavaScript built-in Objects
+Sometimes the likes of Lodash are just an overkill for the problem, that's basically why we even have these built-in objects. So this repo provides a mental model to work with JavaScript Built in objects, to better understand it's capabilities and when to use them.
 
-# **Array**
 
+# Available Models
+A markdown file is available for each object, giving and overview and how to work with it, **below is just a summary**.
+
+## **Array**
 1. Adding, Removing & Emptying
 2. Finding (Primitive and Reference)
 3. Combining & Splitting
@@ -13,8 +16,7 @@ Sometimes the likes of Lodash are just an overkill for the problem, that's basic
 8. Map & Reduce
 
 
-# **Strings**
-
+## **Strings**
 1. Reading character(s) & Reading Decimal Form
 2. Searching, Matching and Replacing
 3. Combining and Splitting
@@ -23,8 +25,7 @@ Sometimes the likes of Lodash are just an overkill for the problem, that's basic
 6. Locale
 
 
-# **Object**
-
+## **Object**
 1. Creating, Coping & Checking Objects
 2. Making Object Immutability & and checking Immutability  (seal, freeze, extensible)
 3. Getting Object Keys and Values
